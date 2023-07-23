@@ -1,11 +1,12 @@
 {
-  "tools": ["news"],
+  "tools": ["google-search"],
   "kwargs": {
-      "llm_api_key": "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",
+      "llm_api_key": "",
       "proxy": "",
       "debug": false,
       "no_default": false,
       "model_name": "gpt-3.5-turbo",
-      "news_api_key": "bNcRJBcOnUY6EjZp"
+      "google_api_key": "AIzaSyCIPJpNWAn7r7vcn5NBYdeBLxkZ8DKSeUY",
+      "google_cse_id": "c62ca4befe9bb4964"
   }
 }
