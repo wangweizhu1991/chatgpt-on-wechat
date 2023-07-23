@@ -1,7 +1,7 @@
 {
   "tools": ["google-search"],
   "kwargs": {
-      "llm_api_key": "",
+      "llm_api_key": "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",
       "proxy": "",
       "debug": false,
       "no_default": false,
