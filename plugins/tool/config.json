@@ -1,5 +1,5 @@
 {
-  "tools": ["news"],
+  "tools": [""],
   "kwargs": {
       "llm_api_key": "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",
       "proxy": "",
