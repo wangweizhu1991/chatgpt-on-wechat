@@ -1,0 +1,11 @@
+{
+  "tools": ["news"],
+  "kwargs": {
+      "llm_api_key": "",
+      "proxy": "",
+      "debug": false,
+      "no_default": false,
+      "model_name": "gpt-3.5-turbo",
+      "news_api_key": "bNcRJBcOnUY6EjZp"
+  }
+}
