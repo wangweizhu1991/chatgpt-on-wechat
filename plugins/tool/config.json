@@ -1,12 +1,11 @@
 {
-  "tools": ["google-search"],
+  "tools": ["news"],
   "kwargs": {
-      "llm_api_key": "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",
+      "llm_api_key": "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",
       "proxy": "",
       "debug": false,
       "no_default": false,
       "model_name": "gpt-3.5-turbo",
-      "google_api_key": "AIzaSyCIPJpNWAn7r7vcn5NBYdeBLxkZ8DKSeUY",
-      "google_cse_id": "c62ca4befe9bb4964"
+      "news_api_key": "c62ca4befe9bb4964"
   }
 }
